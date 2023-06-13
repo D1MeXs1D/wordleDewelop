@@ -1,0 +1,11 @@
+.wrapper {
+  background-color: #F3F3F3;
+  width: 640px;
+  height: 85px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-top: 30px;
+}/*# sourceMappingURL=styleHeader.module.css.map */
